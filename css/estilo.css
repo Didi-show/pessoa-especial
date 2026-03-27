@@ -1,6 +1,6 @@
 body {
-    background-color: #ff0000; /* Fundo Vermelho */
-    color: white;
+    background-color: white; /* Fundo Vermelho */
+    color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
@@ -62,7 +62,7 @@ body {
     padding: 12px 25px;
     font-size: 1rem;
     font-weight: bold;
-    color: #ff0000;
+    color: black;
     background-color: white;
     border: none;
     border-radius: 50px;
