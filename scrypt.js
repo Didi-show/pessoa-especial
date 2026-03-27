@@ -4,7 +4,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const webButton = document.getElementById('web-button');
     const nextPageBtn = document.getElementById('next-page-btn');
     const backBtn = document.getElementById('back-btn');
-    const canvas = document.getElementById('spider-canvas');
     const ctx = canvas.getContext('2d');
 
     let isAnimating = false;
